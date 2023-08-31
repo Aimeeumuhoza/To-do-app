@@ -1,0 +1,16 @@
+{
+  "blog": [
+    {
+      "title": "Learn Typscript",
+      "author": "Tim",
+      "date": "2023-02-04",
+      "id": 1
+    },
+    {
+      "title": "Learn javascript and Nodejs",
+      "author": "Author",
+      "date": "2023-02-23",
+      "id": 7
+    }
+  ]
+}

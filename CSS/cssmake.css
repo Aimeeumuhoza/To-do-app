@@ -1,0 +1,123 @@
+.form{
+    width: 50%;
+    margin-left: 100px;
+  }
+  input{
+    width: 500px;
+    padding: 12px;
+    margin-top: 12px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  .btn{
+    width: 500px;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 18px;
+  }
+  .div{
+ 
+   padding-top: 50px;
+  }
+  .container{
+    width: 100%;
+    margin-bottom: 30px;
+  
+  }
+  .data{
+    background-color: #bfbfbf;
+    width: 50%;
+    margin-left: 100px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    box-shadow: -8px 13px 26px -39px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 13px 26px -39px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 13px 26px -39px rgba(0,0,0,0.75);
+  }
+  .post{
+    margin-top: 12px;
+    padding: 12px;
+    color: #000;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+.data p, span{
+  font-size: large;
+  font-weight: 600;
+}
+  /* body{
+    
+    
+} */
+/* background-image{
+
+    
+    min-height: 100%;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+}
+header {  
+    background-image:url('pic2.jpg');  
+    position: relative;;  
+    left: 0;  
+    right: 0;  
+    top: 5px;  
+    height: 220px;  
+    display: flex;  
+    align-items: center;  
+    box-shadow: 0 0 25px 0 black;  
+    } */
+/* button a{
+  background-color: aqua;
+  color: #000; 
+} */
+/* button a:hover{
+  color: #000;
+  background-color: beige;
+}
+.navbar {
+  overflow: hidden;
+  background-color: grey;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+} */
+/* .navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 123px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+a:link, a:visited {
+  background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: grey;
+} */
