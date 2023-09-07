@@ -1,4 +1,4 @@
-(function(){
+
 const form = document.querySelector('.add');
 
 form.addEventListener('submit', async (e) => {
@@ -108,7 +108,7 @@ window.addEventListener('DOMContentLoaded',()=>{
 
 
 
-})();
+();
 
 
 
